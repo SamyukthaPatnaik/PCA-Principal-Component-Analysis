@@ -7,4 +7,5 @@
 - PCA generally tries to find the lower-dimensional surface to project the high-dimensional data
 - It is a technique to draw strong patterns from the given dataset by reducing the variances.
 
+![Image](https://wiki.math.uwaterloo.ca/statwiki/images/4/4f/PCA_in_Neuroscience.png)
 
